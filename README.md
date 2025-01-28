@@ -1,0 +1,1 @@
+I was tasked with creating a cruiseship maangement system for my computer science project. The user has the ability to see select specific cruises and within that they can add excursions for passengers and change a passengers cabin. This was created using Java.
